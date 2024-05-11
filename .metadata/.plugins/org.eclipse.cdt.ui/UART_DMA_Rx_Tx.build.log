@@ -1,0 +1,10 @@
+16:46:30 **** Incremental Build of configuration Debug for project UART_DMA_Rx_Tx ****
+make -j16 all 
+arm-none-eabi-size  UART_DMA_Rx_Tx.elf 
+   text	   data	    bss	    dec	    hex	filename
+  13956	     12	   1852	  15820	   3dcc	UART_DMA_Rx_Tx.elf
+Finished building: default.size.stdout
+ 
+
+16:46:30 Build Finished. 0 errors, 0 warnings. (took 325ms)
+
